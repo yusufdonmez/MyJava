@@ -17,7 +17,7 @@ public class MyJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Merhaba Ders");
-        insan Ali = new insan();
+        calisan Ali = new calisan();
         Ali.boy = 180;
         Ali.kilo = 60;
         Ali.yas = 22;
