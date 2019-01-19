@@ -27,8 +27,13 @@ public class MyJava {
         Veli.yas=25;
         Veli.kilo=55;
         System.out.println("Velini yası: "+Veli.yas+" Velini kilosu: "+Veli.kilo+" ali boy: "+Veli.boy);
-        
-        
+        Ali.maas = 100;
+        Ali.zam(20);
+        Ali.yemek();
+        System.out.println("ali maas: "+Ali.maas);
+        System.out.println("ali kilo: "+Ali.kilo);
+        Ali.zam(30);
+        System.out.println("ali maas: "+Ali.maas);
     }
     
 }

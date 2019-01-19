@@ -13,7 +13,11 @@ public class insan {
     int boy;
     int kilo;
     int yas;
+    int maas;
     void yemek(){
         kilo++;
+    }
+    void zam(int oran){
+        maas = maas+ maas*oran/100;
     }
 }
